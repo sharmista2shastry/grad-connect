@@ -1,3 +1,3 @@
-# startup-of-the-year
+# Grad Connect Website
 
-Link: https://sharmista2shastry.github.io/start-up-of-the-year/
+Link: https://sharmista2shastry.github.io/grad-connect/
